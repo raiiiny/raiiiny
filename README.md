@@ -9,7 +9,7 @@ KaRinKaRin876/KaRinKaRin876 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 -->
 
-Hello, I'm "IHAH" but named in github "KaRinKaRin876".
+Hello, I'm IHAH(이하)!
 
 I'm 15 years in South Korea.
 
