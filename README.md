@@ -15,4 +15,4 @@ I'm 15 years in South Korea.
 
 I'm developer using Python, Java, C, [SkriptLang](https://github.com/SkriptLang/Skript).
 
-![KaRinKaRin876's github Status](https://github-readme-stats.vercel.app/api?username=KaRinKaRin876&show_icons=true&count_private=true&theme=radical)
+![IAMIHAH's github Status](https://github-readme-stats.vercel.app/api?username=IAMIHAH&show_icons=true&count_private=true&theme=radical)
