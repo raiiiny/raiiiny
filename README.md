@@ -9,10 +9,25 @@ KaRinKaRin876/KaRinKaRin876 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 -->
 
-Hello, I'm IHAH(이하)!
+<div align='center'>
+  
+  # Hello 👋
+  My Name is IHAH, I'm 15 years old in South Korea
+  
+  ---
+  
+  ### My Github Stats
+  [![IAMIHAH's github Status](https://github-readme-stats.vercel.app/api?username=IAMIHAH&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ### Contact
+  <div align='center'>
+  
+  ![](https://img.shields.io/badge/%EC%9D%B4%ED%95%98%EB%8B%98%239999-5865F2?style=flat-square&logo=discord&logoColor=white)
+  <a href="mailto:kr.ihah@kakao.com"><img src = "https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+    
+  </div>
+  
+  Design by [Chu Hyeon-jin](https://github.com/chuhyeonjin)
+  
+</div>
 
-I'm 15 years in South Korea.
-
-I'm developer using Python, Java, C, [SkriptLang](https://github.com/SkriptLang/Skript).
-
-![IAMIHAH's github Status](https://github-readme-stats.vercel.app/api?username=IAMIHAH&show_icons=true&count_private=true&theme=radical)
