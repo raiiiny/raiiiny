@@ -17,7 +17,10 @@ You can click the Preview link to take a look at your changes.
   ---
   
   ### My Github Stats
-  [![IAMIHAH's github Status](https://github-readme-stats.vercel.app/api?username=IAMIHAH&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![IAMIHAH's github Status](https://github-readme-stats.vercel.app/api?username=IAMIHAH&show_icons=true&theme=radical)](https://github.com/IAMIHAH)
+  
+  ### Most Used Language
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAMIHAH&layout=compact)](https://github.com/IAMIHAH)
   
   ### Contact
   <div align='center'>
