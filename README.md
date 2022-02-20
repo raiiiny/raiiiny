@@ -13,10 +13,10 @@ I'm 16 years old in South Korea (2022)
 I Most Using **Python**!
 
 I made
-> **IHAHBOT**(Discord Eternal Return record bot)
-> **Blue Price Moremi**(a third party of BHMo)
-> **Discord Captcha Bot**
-with **Python**.
+> **IHAHBOT**(Discord Eternal Return record bot)<br>
+> **Blue Price Moremi**(a third party of BHMo)<br>
+> **Discord Captcha Bot**<br>
+with **Python**.<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAMIHAH&layout=compact)](https://github.com/IAMIHAH)
 
 ## Contact
