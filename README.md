@@ -14,8 +14,8 @@ I Most Using **Python**!
 
 I made
 > [**IHAHBOT**](https://ihah.me/bot)(Discord Eternal Return record bot)<br>
-> [**Blue Price Moremi**](https://bpmo.xyz)(a third party of BHMo)<br>
-> **Discord Captcha Bot**
+> [**BHMo Helper**](https://bpmo.xyz)(a third party of BHMo)<br>
+> and more bots
 
 with **Python**.
 
