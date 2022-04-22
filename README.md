@@ -2,7 +2,7 @@
 
 My Name is IHAH! (dlgksla for id)
 
-I'm 16 years old in South Korea (2022)
+I'm 16 years old in South Korea. (2022)
 
 ---
 
