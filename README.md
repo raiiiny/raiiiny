@@ -4,7 +4,7 @@ My Name is IHAH! (dlgksla for id)
 
 I'm 17 years old in South Korea. (2023)
 
-SNS: https://m.ihah.me/@rai_ny_ (My Misskey instance)
+SNS: https://m.ihah.me/@rai__ny (My Misskey instance)
 
 ---
 
