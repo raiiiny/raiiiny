@@ -19,8 +19,8 @@
 
 
   ### Github Status
-  [![IAMIHAH's github Status](https://github-readme-stats.vercel.app/api?username=IAMIHAH&show_icons=true&theme=shadow_red&count_private=true)](https://github.com/IAMIHAH)
+  [![raiiiny's github Status](https://github-readme-stats.vercel.app/api?username=raiiiny&show_icons=true&theme=shadow_red&count_private=true)](https://github.com/raiiiny)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAMIHAH&theme=tokyonight&show_icons=true)](https://github.com/IAMIHAH)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiiiny&theme=tokyonight&show_icons=true)](https://github.com/raiiiny)
   
 </div>
