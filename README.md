@@ -5,7 +5,7 @@
   ### Contact
   <div align='center'>
   
-  ![](https://img.shields.io/badge/rai_ny._.-5865F2?style=square&logo=discord&logoColor=white)
+  ![](https://img.shields.io/badge/22m_rft59-5865F2?style=square&logo=discord&logoColor=white)
   <a href="mailto:kr.ihah@kakao.com"><img src = "https://img.shields.io/badge/kr.ihah@kakao.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
     
   </div>
