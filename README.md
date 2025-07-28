@@ -12,10 +12,11 @@
 
   ### My Projects
   [IHAHBOT](https://discord.com/application-directory/769163955137675275)
+  <br>(Eternal Return Discord Bot)
+  <br><br>
+  [Rootkit Pirates](https://discord.gg/rootkit-pirates) / [byorda](https://github.com/RootkitPirates)
   <br>
-  [Ascalon](https://github.com/AscalonMC) (A Role-Play Minecraft Server)
-  <br>
-  P.Rang (A Role-Play Discord Bot)
+  (Eternal Return custom game Discord server)
 
 
   ### Github Status
