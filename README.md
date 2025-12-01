@@ -1,6 +1,6 @@
 #### Projects
 - [IHAHBOT](https://discord.com/application-directory/769163955137675275)
-  (Eternal Return Discord Bot)
+  (Eternal Return Discord Bot) [#Landing Images](https://github.com/raiiiny/ihb-promote/tree/main/v4)
 - [byorda](https://github.com/RootkitPirates) in [Rootkit Pirates](https://discord.gg/rootkit-pirates)
   (Eternal Return custom game Discord Server)
 - [morae.me](https://morae.me)
